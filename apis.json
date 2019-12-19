@@ -1,0 +1,59 @@
+{
+    "name": "Paccurate",
+    "description": "<p>Designed for production shipping environments, &rho;accurate is lightning fast, completing most requests in 100ms or less. A single, flexible API call can be used in any project or workflow. More accurate shipping estimates. By precisely simulating how your product will be packed, you can avoid over-estimating shipping, which reduces shopping cart abandonment. Speed up the pick and pack process. Turn warehouse staff into smooth operators- &rho;accurate can generate a helpful pack list and visual instructions&mdash;and even generate intelligent pick zones on the fly. Let paccurate determine the cheapest box configuration. When business is booming, every cent counts. Use &rho;accurate to find the optimal way of packing each parcel and pallet and avoid costly mistakes.<\/p>",
+    "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist-logos\/api-evangelist-red-seal.png",
+    "tags": [
+        "have api",
+        "have swagger",
+        "packages",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paccurate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "paccurate.io",
+            "description": null,
+            "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist-logos\/api-evangelist-red-seal.png",
+            "humanURL": "http:\/\/paccurate.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paccurate-io-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/paccurate-io.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paccurate-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.paccurate.io\/"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/docs.paccurate.io\/#getting-started"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/28480-2019-09-04-10-19-06.json"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/paccurate.io"
+        }
+    ]
+}
