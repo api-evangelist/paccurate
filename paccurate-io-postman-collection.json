@@ -1,0 +1,44 @@
+{
+    "id": "ffe8514f2cc71a3312553e95a5045d1f",
+    "name": "paccurate.io",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "e261ac32b93954c39596ef31b33a2631",
+            "name": "Post",
+            "url": "http:\/\/api.paccurate.io\/\/",
+            "description": "a pure-JSON endpoint for packing requests.\n",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "pack",
+                    "description": "complete set of items, boxes, and parameters to pack.",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "ffe8514f2cc71a3312553e95a5045d1f",
+            "rawModeData": ""
+        }
+    ]
+}
