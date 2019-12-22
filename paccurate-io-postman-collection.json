@@ -1,5 +1,5 @@
 {
-    "id": "ffe8514f2cc71a3312553e95a5045d1f",
+    "id": "1438b7d703a4541b08a381a7ad216e3f",
     "name": "paccurate.io",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "e261ac32b93954c39596ef31b33a2631",
+            "id": "7ea1d5e224051a00c14503c7a58b445f",
             "name": "Post",
             "url": "http:\/\/api.paccurate.io\/\/",
             "description": "a pure-JSON endpoint for packing requests.\n",
@@ -37,7 +37,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ffe8514f2cc71a3312553e95a5045d1f",
+            "collectionId": "1438b7d703a4541b08a381a7ad216e3f",
             "rawModeData": ""
         }
     ]
